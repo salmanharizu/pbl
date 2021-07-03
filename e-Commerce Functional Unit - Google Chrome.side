@@ -62,7 +62,7 @@
         ["xpath=//form[@id='create-account_form']/div/div[2]/input", "xpath:idRelative"],
         ["xpath=//div[2]/input", "xpath:position"]
       ],
-      "value": "rashdanharizu@gmail.com"
+      "value": "rashdan_harizu@gmail.com"
     }, {
       "id": "ae37f683-19a1-4af2-82f3-abc4179f0950",
       "comment": "",
