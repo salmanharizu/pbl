@@ -567,7 +567,7 @@
         ["xpath=//form[@id='login_form']/div/div[2]/span/input", "xpath:idRelative"],
         ["xpath=//span/input", "xpath:position"]
       ],
-      "value": "maisarah.harizu"
+      "value": "maisarah_harizu"
     }, {
       "id": "21f6a4ab-c83b-43bd-ba3a-6d9068279eef",
       "comment": "",
